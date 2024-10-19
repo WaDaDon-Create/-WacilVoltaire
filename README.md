@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello There👋
 
 - 🔭 I’m currently working on a mental health calendar web app for my CS project
 - 🌱 I’m learning JavaScript, HTML, and CSS while building interactive applications
