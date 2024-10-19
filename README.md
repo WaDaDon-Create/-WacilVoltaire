@@ -7,8 +7,4 @@
 - 📫 How to reach me: wacilv7@gmail.com | [LinkedIn](https://www.linkedin.com/in/wacilvoltaire/)
 - 🎯 Senior at UMass Amherst majoring in Computational Mathematics
 
-### Popular repositories
-- [Calendar Cherish](link-to-project)
-- [Predictive NBA Model](link-to-project)
-
 **Pronouns**: He/Him
